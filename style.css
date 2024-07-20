@@ -14,9 +14,9 @@
 }
 
 .light {
-  --text-color: rgb(71, 7, 71);
+  --text-color: rgb(12, 1, 12);
   --bg-url: url(./assets/bg-mobile-light.jpg);
-  --stroke-color: rgba(56, 7, 50, 0.5);
+  --stroke-color: rgba(14, 2, 12, 0.5);
   --surface-color: rgba(61, 2, 56, 0.075);
   --switch-bg-url: url(./assets/sun.svg);
 }
