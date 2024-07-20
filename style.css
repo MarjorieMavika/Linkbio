@@ -9,6 +9,7 @@
   --bg-url: url(./assets/bg-mobile.jpg);
   --stroke-color: rgba(189, 98, 241, 0.5);
   --surface-color: rgba(255, 255, 255, 0.1);
+    --highlight-color: rgba(114, 104, 117, 0.397);
   --switch-bg-url: url(./assets/moon-stars.svg);
 }
 
@@ -79,7 +80,7 @@ body * {
   z-index: 1;
   transform: translateY(-50%);
 
-  animation: slide-back 0.2s;
+   animation: slide-back 0.2s;
 }
 
 .light #switch button {
